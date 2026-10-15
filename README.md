@@ -1,16 +1,16 @@
-## Hi there 👋
+# Fahimur Rahman
 
-<!--
-**fahimur-rahman/fahimur-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-semester Computer Science student at BRAC University (graduating January 2027), focused on data analysis and machine learning with Python.
 
-Here are some ideas to get you started:
+## Projects
+- **ANCHOR** (undergraduate thesis, team of 4): a fairness-constrained LightGBM method that removed 82% of bias amplification in student math-score predictions, versus 14% for IBM AIF360's Disparate Impact Remover. *Repository coming soon.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Next up
+- E-commerce sales and customer analysis with SQL and Power BI
+- AI study assistant that answers questions about course PDFs (RAG, FastAPI)
+
+## Tools
+Python · LightGBM · scikit-learn · SHAP · IBM AIF360 · Fairlearn · Jupyter
+
+## Contact
+contact.fahimrahman@gmail.com
